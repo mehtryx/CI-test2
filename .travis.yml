@@ -3,7 +3,7 @@
 # Tell Travis CI we're using PHP
 language: php
 
-# Build matrix options
+# Build matrix options bang
 matrix:
   include:
     - php: 5.2
